@@ -2,6 +2,7 @@
   <configuration default="false" name="Run against example" type="JetRunConfigurationType" folderName="Shared">
     <option name="MAIN_CLASS_NAME" value="me.tmat.definitionextractor.MainKt" />
     <module name="definition-extractor.main" />
+    <option name="PROGRAM_PARAMETERS" value="Example.kt" />
     <shortenClasspath name="NONE" />
     <method v="2">
       <option name="Make" enabled="true" />
